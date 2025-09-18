@@ -15,7 +15,8 @@
 - **JavaScript (ES6)** – Interactivity  
 
 ## 📸 Screenshots  
-👉 *Add screenshots of your homepage, product section, and cart here*  
+<img src="https://github.com/Tushar100700/T20-World-Cup-Dashboard-Power-BI-SQL-Python-/blob/main/720.png">
+
 
 ## 🎯 Learnings  
 - Responsive UI development with **HTML & CSS**  
