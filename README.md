@@ -15,7 +15,7 @@
 - **JavaScript (ES6)** – Interactivity  
 
 ## 📸 Screenshots  
-<img src="https://github.com/Tushar100700/T20-World-Cup-Dashboard-Power-BI-SQL-Python-/blob/main/720.png">
+<img src="https://github.com/Tushar100700/Flipkart-Clone-using-HTML-CSS-JavaScript/blob/main/Screenshot%202025-09-18%20145647.png">
 
 
 ## 🎯 Learnings  
